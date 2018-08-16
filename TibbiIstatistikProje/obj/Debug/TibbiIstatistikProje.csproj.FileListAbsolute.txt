@@ -1,0 +1,10 @@
+C:\Users\SalihKoksal\source\repos\TibbiIstatistikProje\TibbiIstatistikProje\bin\Debug\TibbiIstatistikProje.exe.config
+C:\Users\SalihKoksal\source\repos\TibbiIstatistikProje\TibbiIstatistikProje\bin\Debug\TibbiIstatistikProje.exe
+C:\Users\SalihKoksal\source\repos\TibbiIstatistikProje\TibbiIstatistikProje\bin\Debug\TibbiIstatistikProje.pdb
+C:\Users\SalihKoksal\source\repos\TibbiIstatistikProje\TibbiIstatistikProje\obj\Debug\TibbiIstatistikProje.Form1.resources
+C:\Users\SalihKoksal\source\repos\TibbiIstatistikProje\TibbiIstatistikProje\obj\Debug\TibbiIstatistikProje.Properties.Resources.resources
+C:\Users\SalihKoksal\source\repos\TibbiIstatistikProje\TibbiIstatistikProje\obj\Debug\TibbiIstatistikProje.csproj.GenerateResource.Cache
+C:\Users\SalihKoksal\source\repos\TibbiIstatistikProje\TibbiIstatistikProje\obj\Debug\TibbiIstatistikProje.csproj.CoreCompileInputs.cache
+C:\Users\SalihKoksal\source\repos\TibbiIstatistikProje\TibbiIstatistikProje\obj\Debug\TibbiIstatistikProje.exe
+C:\Users\SalihKoksal\source\repos\TibbiIstatistikProje\TibbiIstatistikProje\obj\Debug\TibbiIstatistikProje.pdb
+C:\Users\SalihKoksal\source\repos\TibbiIstatistikProje\TibbiIstatistikProje\obj\Debug\TibbiIstatistikProje.csprojResolveAssemblyReference.cache
